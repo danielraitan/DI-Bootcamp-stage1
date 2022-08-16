@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(237, 183, 112);
+   
+}
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+h1{
+    outline:dotted red ;
+    text-align: center;
+}
+div{
+    outline: dotted red;
+    padding-bottom: 5px;
+    padding-left:3px;
+}
+#wrap{ 
+    background-color: beige;
+}
+.copyright{
+    text-align: center;
+}

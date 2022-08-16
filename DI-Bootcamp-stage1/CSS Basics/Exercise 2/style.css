@@ -1,0 +1,17 @@
+.odd {
+   
+    background-color: lightcoral;
+    font: verdana;
+}
+.number3{ 
+    font-size: 24px;
+}
+#even1{
+    color: blue;
+    font-size: 36px;
+}
+#even2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
