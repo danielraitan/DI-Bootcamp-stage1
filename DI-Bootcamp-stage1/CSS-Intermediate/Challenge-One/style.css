@@ -1,0 +1,28 @@
+body{
+    background-color: green;
+    
+}
+
+#nav{
+    float: left;
+	margin-left:100px;
+    margin-right: 50px;
+    padding-bottom: 235px;
+    background-color: lightskyblue;
+}
+#content  {
+  /* background-color: aquamarine;
+    width: 20%;
+    float: right;*/
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: brown;
+    width:31%
+    
+    
+}
+ul{
+    list-style-type: none;
+}
+
